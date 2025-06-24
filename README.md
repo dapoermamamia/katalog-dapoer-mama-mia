@@ -4,7 +4,7 @@ This is a simple, responsive product catalog website built for the **Dapoer Mama
 
 ## 🌐 Live Website
 
-🔗 [https://your-username.github.io/katalog-dapoer-mama-mia/](https://your-username.github.io/katalog-dapoer-mama-mia/)  
+🔗 https://dapoermamamia.github.io/katalog-dapoer-mama-mia/  
 *(replace with your actual GitHub Pages URL after deployment)*
 
 ---
